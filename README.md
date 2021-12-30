@@ -52,6 +52,7 @@ midnight tonight.
 # In short...
 
 |||
+|:-|:-|
 | Name:       | Jimmy Clark                            |
 | Physiology: | Robotic Ostrich                        |
 | Location:   | High-tech Space Zoo                    |
