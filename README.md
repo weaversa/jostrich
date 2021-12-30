@@ -10,7 +10,7 @@ quite silly and also years in the making.
 > sun. Orbiting this at a distance of roughly ninety-two million miles
 > is an utterly insignificant little blue green planet whose
 > ape-descended life forms are so amazingly primitive that they still
-> think digital watches are a pretty neat idea."
+> think digital watches are a pretty neat idea.
 
    --- Douglas Adams, The Hitchhiker's Guide to the Galaxy
 
