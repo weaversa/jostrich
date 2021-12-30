@@ -55,7 +55,7 @@ titanium.
 
 Jimmy, now 12 years old, is coming of age. He misses his original
 Earth family and wants to go back home in time for
-Christmas...tomorrow!!! Gliese 832c is 16 light years from Earth. The
+Christmas --- tomorrow! Gliese 832c is 16 light years from Earth. The
 only way to efficiently travel back to Earth is via the nearby
 Einstein-Rosen bridge, a common Wormhole capable of transporting
 anyone back to Earth instantaneously. Jimmy's quest: find a way to
