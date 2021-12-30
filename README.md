@@ -61,4 +61,4 @@ midnight tonight.
 
 # Begin the Adventure!
 
-[Act I, The Cage](./acts/act1.md)
+[Act I, The Cage](./acts/act1/start.md)
