@@ -427,7 +427,7 @@ Nobody to drive the ostrich plane because they are sleeping.
 
 Santa clause was an ostrich.
 
-Now CeCe is an elf in disguise.
+Now CeCe is an elf in disguise. -- 3a.md
 
 Change his strawberry pie turners into blueberry pie Santa turns the
 pie.
